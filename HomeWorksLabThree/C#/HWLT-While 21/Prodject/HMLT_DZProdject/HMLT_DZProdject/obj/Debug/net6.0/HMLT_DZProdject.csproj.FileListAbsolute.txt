@@ -1,0 +1,15 @@
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.csproj.AssemblyReference.cache
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.AssemblyInfoInputs.cache
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.AssemblyInfo.cs
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.csproj.CoreCompileInputs.cache
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\bin\Debug\net6.0\HMLT_DZProdject.exe
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\bin\Debug\net6.0\HMLT_DZProdject.deps.json
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\bin\Debug\net6.0\HMLT_DZProdject.runtimeconfig.json
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\bin\Debug\net6.0\HMLT_DZProdject.dll
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\bin\Debug\net6.0\HMLT_DZProdject.pdb
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.dll
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\refint\HMLT_DZProdject.dll
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.pdb
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\HMLT_DZProdject.genruntimeconfig.cache
+C:\Users\zoazu\source\repos\HMLT_DZProdject\HMLT_DZProdject\obj\Debug\net6.0\ref\HMLT_DZProdject.dll

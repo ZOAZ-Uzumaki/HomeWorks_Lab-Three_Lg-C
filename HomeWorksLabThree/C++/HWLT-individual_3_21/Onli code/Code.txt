@@ -1,0 +1,21 @@
+/* 21.   Дано ціле число N. Знайти найменше ціле додатне число K,
+*       квадрат якого перевершує N: K2 > N.
+*       Функцію отримання квадратного кореня не використовувати.
+* */
+#include <iostream>;
+#include <Windows.h>;
+using namespace std;
+
+int main(void)
+{
+    SetConsoleCP(1251);           //lg Ukraine
+    SetConsoleOutputCP(1251);     //lg Ukraine
+
+    int n = 16;    int k = 1;
+
+    while (k * k <= n)
+    {
+        k++;
+    }
+    cout << "Найменьше додатнє число К - " << k << endl;
+}

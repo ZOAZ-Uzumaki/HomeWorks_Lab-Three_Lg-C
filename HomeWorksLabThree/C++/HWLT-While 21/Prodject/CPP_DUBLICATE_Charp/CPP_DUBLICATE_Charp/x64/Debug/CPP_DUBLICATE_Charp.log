@@ -1,0 +1,4 @@
+﻿  CPP_DUBLICATE_Charp.cpp
+C:\Users\zoazu\source\repos\CPP_DUBLICATE_Charp\CPP_DUBLICATE_Charp\CPP_DUBLICATE_Charp.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\zoazu\source\repos\CPP_DUBLICATE_Charp\CPP_DUBLICATE_Charp\CPP_DUBLICATE_Charp.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CPP_DUBLICATE_Charp.vcxproj -> C:\Users\zoazu\source\repos\CPP_DUBLICATE_Charp\x64\Debug\CPP_DUBLICATE_Charp.exe
